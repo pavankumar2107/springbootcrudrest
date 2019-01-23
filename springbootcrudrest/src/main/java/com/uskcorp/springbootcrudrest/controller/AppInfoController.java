@@ -24,7 +24,7 @@ import com.uskcorp.springbootcrudrest.repository.AppInfoRepository;
 @RestController
 @RequestMapping("/api")
 public class AppInfoController {
-
+//
 	@Autowired
 	private AppInfoRepository repository;
 
